@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=wahaj-yousef&style=flat-square&color=red" alt=""/>
 <div id="header" align="center">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -11,9 +12,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 </div>
---- 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahaj-yousef&layout=compact&theme=nightowl)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahaj-yousef&layout=compact&theme=nightowl&hide_progress=true)
+
 
 </div>
 <!--
